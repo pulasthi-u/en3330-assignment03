@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.10)  17 OCT 2026 11:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.10)  17 OCT 2026 11:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -420,31 +420,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip55
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 18.
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 61.
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 56.
  (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 ) (220658U_EN3330_A03.aux)
 \openout1 = `220658U_EN3330_A03.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -502,23 +501,23 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 61.
+Package hyperref Info: Link coloring OFF on input line 56.
  (220658U_EN3330_A03.out) (220658U_EN3330_A03.out)
 \@outlinefile=\write3
 \openout3 = `220658U_EN3330_A03.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
  (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
  (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <imgs/1.png, id=5, 608.5134pt x 379.4175pt>
 File: imgs/1.png Graphic file (type png)
 <use imgs/1.png>
-Package pdftex.def Info: imgs/1.png  used on input line 81.
+Package pdftex.def Info: imgs/1.png  used on input line 76.
 (pdftex.def)             Requested size: 422.77661pt x 263.61044pt.
  [1
 
@@ -526,25 +525,25 @@ Package pdftex.def Info: imgs/1.png  used on input line 81.
 <imgs/2.png, id=24, 617.1858pt x 379.4175pt>
 File: imgs/2.png Graphic file (type png)
 <use imgs/2.png>
-Package pdftex.def Info: imgs/2.png  used on input line 104.
+Package pdftex.def Info: imgs/2.png  used on input line 99.
 (pdftex.def)             Requested size: 422.77661pt x 259.911pt.
  [2 <./imgs/1.png>]
 <imgs/3.png, id=34, 616.4631pt x 383.031pt>
 File: imgs/3.png Graphic file (type png)
 <use imgs/3.png>
-Package pdftex.def Info: imgs/3.png  used on input line 134.
+Package pdftex.def Info: imgs/3.png  used on input line 129.
 (pdftex.def)             Requested size: 422.77661pt x 262.6961pt.
  [3 <./imgs/2.png>] [4 <./imgs/3.png>]
 <imgs/4.png, id=53, 617.9085pt x 212.4738pt>
 File: imgs/4.png Graphic file (type png)
 <use imgs/4.png>
-Package pdftex.def Info: imgs/4.png  used on input line 194.
+Package pdftex.def Info: imgs/4.png  used on input line 189.
 (pdftex.def)             Requested size: 422.77661pt x 145.37508pt.
  [5 <./imgs/4.png>] [6] [7]
 <imgs/5.png, id=77, 596.2275pt x 379.4175pt>
 File: imgs/5.png Graphic file (type png)
 <use imgs/5.png>
-Package pdftex.def Info: imgs/5.png  used on input line 439.
+Package pdftex.def Info: imgs/5.png  used on input line 434.
 (pdftex.def)             Requested size: 422.77661pt x 269.04094pt.
  [8] [9 <./imgs/5.png>] (220658U_EN3330_A03.aux)
  ***********
@@ -557,13 +556,13 @@ Package rerunfilecheck Info: File `220658U_EN3330_A03.out' has not changed.
 Here is how much of TeX's memory you used:
  14973 strings out of 467871
  262414 string characters out of 5419827
- 695839 words of memory out of 5000000
+ 695851 words of memory out of 5000000
  43652 multiletter control sequences out of 15000+600000
  649265 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,9n,90p,623b,706s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,9n,90p,623b,705s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on 220658U_EN3330_A03.pdf (9 pages, 287589 bytes).
+Output written on 220658U_EN3330_A03.pdf (9 pages, 287556 bytes).
 PDF statistics:
  146 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
